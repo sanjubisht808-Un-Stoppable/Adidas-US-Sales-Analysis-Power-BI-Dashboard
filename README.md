@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard that analyses two years of Adidas sales across the United States. It tracks the key business KPIs, surfaces seasonal patterns, and compares performance by region, state, retailer, product and sales channel, so stakeholders can make faster, data-backed decisions.
 
-imagesdashboard_preview.png.png
+
+![Dashboard Preview](imagesdashboard_preview.png.png)
 <!-- Add a screenshot of your dashboard at images/dashboard_preview.png -->
 
 ---
